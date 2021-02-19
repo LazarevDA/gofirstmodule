@@ -1,3 +1,3 @@
-module github.com/LazarevDA/go-first-module
+module github.com/LazarevDA/gofirstmodule
 
 go 1.16
